@@ -1,9 +1,11 @@
 # Core dependencies
 openai>=1.0.0              # For OpenAI and DeepSeek LLM calls
+python-dotenv>=1.0.0       # For loading environment variables
 
 # Web API dependencies
 flask>=2.3.0               # Web framework for API server
 flask-cors>=4.0.0          # Cross-origin resource sharing for API
+werkzeug>=2.3.0            # WSGI toolkit (required by Flask and Vercel)
 
 # Optional dependencies (uncomment if needed)
 # google-generativeai>=0.3.0  # For Google Gemini support

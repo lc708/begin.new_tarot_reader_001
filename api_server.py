@@ -254,11 +254,7 @@ def recommend_spread():
             "error": f"推荐牌阵失败: {str(e)}"
         }), 500
 
-# For Vercel deployment
-import os
-if os.environ.get('VERCEL'):
-    # Vercel serverless function handler
-    app.wsgi_app = app
+# For Vercel deployment - WSGI应用已经兼容
 
 if __name__ == '__main__':
     print("🔮 启动塔罗牌占卜API服务器...")
