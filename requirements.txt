@@ -1,0 +1,11 @@
+# Core dependencies
+openai>=1.0.0              # For OpenAI and DeepSeek LLM calls
+
+# Web API dependencies
+flask>=2.3.0               # Web framework for API server
+flask-cors>=4.0.0          # Cross-origin resource sharing for API
+
+# Optional dependencies (uncomment if needed)
+# google-generativeai>=0.3.0  # For Google Gemini support
+# duckduckgo-search>=3.8.0   # For DuckDuckGo search (no API key required)
+# requests>=2.28.0           # For web search APIs (Serper, Tavily, Brave, Bocha)

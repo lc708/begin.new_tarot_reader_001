@@ -1,0 +1,2725 @@
+[
+  {
+    "user_question": "我的感情状况如何",
+    "question_category": "love",
+    "spread_type": "three_card",
+    "spread_config": {
+      "name": "三张牌占卜",
+      "description": "经典的过去-现在-未来布局，适合了解事情发展脉络",
+      "card_count": 3,
+      "positions": {
+        "1": {
+          "name": "过去",
+          "description": "影响当前情况的过去因素或根源",
+          "significance": "历史因素，根本原因，已经发生的影响"
+        },
+        "2": {
+          "name": "现在",
+          "description": "当前的状况、挑战或机会",
+          "significance": "目前的状态，需要面对的现实"
+        },
+        "3": {
+          "name": "未来",
+          "description": "可能的结果或发展趋势",
+          "significance": "潜在结果，发展方向，需要注意的趋势"
+        }
+      },
+      "usage": "适合了解情况发展，分析问题全貌，中期规划",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "审判",
+        "reversed": true,
+        "position": 1,
+        "orientation": "reversed"
+      },
+      {
+        "name": "节制",
+        "reversed": false,
+        "position": 2,
+        "orientation": "upright"
+      },
+      {
+        "name": "恶魔",
+        "reversed": true,
+        "position": 3,
+        "orientation": "reversed"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 20,
+        "suit": "major_arcana",
+        "keywords": [
+          "重生",
+          "觉醒",
+          "宽恕",
+          "召唤"
+        ],
+        "upright": {
+          "meaning": "精神觉醒，重获新生，宽恕过去，听从召唤",
+          "love": "关系重生，原谅过去",
+          "career": "职业召唤，重新开始",
+          "health": "康复重生，精神觉醒"
+        },
+        "reversed": {
+          "meaning": "缺乏觉悟，拒绝宽恕，错失机会，自我怀疑",
+          "love": "无法原谅，错失复合",
+          "career": "自我怀疑，错失机会",
+          "health": "拒绝康复，缺乏觉悟"
+        },
+        "position_info": {
+          "name": "过去",
+          "description": "影响当前情况的过去因素或根源",
+          "significance": "历史因素，根本原因，已经发生的影响"
+        },
+        "card_state": {
+          "name": "审判",
+          "reversed": true,
+          "position": 1,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 14,
+        "suit": "major_arcana",
+        "keywords": [
+          "平衡",
+          "节制",
+          "和谐",
+          "治愈"
+        ],
+        "upright": {
+          "meaning": "平衡各方面，适度节制，和谐统一，治愈过程",
+          "love": "关系和谐，互相平衡",
+          "career": "工作生活平衡，团队合作",
+          "health": "身心和谐，康复进展"
+        },
+        "reversed": {
+          "meaning": "失去平衡，过度极端，缺乏自制，关系不和",
+          "love": "关系失衡，缺乏沟通",
+          "career": "工作过度，缺乏平衡",
+          "health": "生活失调，缺乏节制"
+        },
+        "position_info": {
+          "name": "现在",
+          "description": "当前的状况、挑战或机会",
+          "significance": "目前的状态，需要面对的现实"
+        },
+        "card_state": {
+          "name": "节制",
+          "reversed": false,
+          "position": 2,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 15,
+        "suit": "major_arcana",
+        "keywords": [
+          "束缚",
+          "诱惑",
+          "物质",
+          "成瘾"
+        ],
+        "upright": {
+          "meaning": "受到束缚，物质诱惑，成瘾行为，恐惧支配",
+          "love": "不健康的关系，占有欲",
+          "career": "被工作束缚，金钱诱惑",
+          "health": "不良习惯，成瘾问题"
+        },
+        "reversed": {
+          "meaning": "摆脱束缚，克服诱惑，觉醒意识，获得自由",
+          "love": "摆脱不良关系，获得自由",
+          "career": "摆脱束缚，重获自主",
+          "health": "戒除恶习，重获健康"
+        },
+        "position_info": {
+          "name": "未来",
+          "description": "可能的结果或发展趋势",
+          "significance": "潜在结果，发展方向，需要注意的趋势"
+        },
+        "card_state": {
+          "name": "恶魔",
+          "reversed": true,
+          "position": 3,
+          "orientation": "reversed"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "审判",
+        "position": 1,
+        "position_name": "过去",
+        "reversed": true,
+        "reading": "过去的审判（逆位）表明你在感情里曾被自我怀疑与无法原谅的情绪束缚，可能因为旧伤或错失复合机会而停滞。这些未解的内疚影响了你现在的信任与选择。建议先做内心的和解：承认自己的感受，练习自我宽恕，必要时向对方表达歉意或寻求心理支持。放下对过去的执念，才能不再让旧事主导你目前的爱情道路。"
+      },
+      {
+        "card_name": "节制",
+        "position": 2,
+        "position_name": "现在",
+        "reversed": false,
+        "reading": "现在的节制（正位）显示你与你的伴侣或潜在对象正处于平衡与治愈的阶段，关系中有相互理解和适度的调节。这是巩固基础的好时机。建议继续保持耐心与沟通，设立健康界限并在冲突时寻找折中方案。注重日常小事的协调与自我照顾，稳定的节奏会让感情更稳固且更具长远发展潜力。"
+      },
+      {
+        "card_name": "恶魔",
+        "position": 3,
+        "position_name": "未来",
+        "reversed": true,
+        "reading": "未来的恶魔（逆位）预示你将逐步摆脱束缚，可能离开不良关系或克服旧有诱惑，获得更大的自由与觉醒。这是解脱与重生的象征。建议提前准备：整理情绪与现实上的安排，建立支持网络，练习独立决策。勇敢断舍离对你有利，但也温和地对自己——自由来于清醒选择，而非仓促逃离。"
+      }
+    ],
+    "combined_reading": "整体上，你的感情正从过去的自责与停滞走向平衡与解脱。过去审判逆位显示旧伤、内疚或未能放下的错失曾让你停步；现在节制（正位）说明你正以耐心、沟通与自我照料重建稳定；未来恶魔逆位预示你将逐步摆脱束缚，获得更自主的选择。\n\n三张牌连成一条治愈线：先承认并和解旧痛（审判逆位），在当下维持节奏与边界（节制），最终理性断舍离并重获自由（恶魔逆位）。\n\n行动建议：日常练习自我宽恕，必要时表达歉意或寻求专业支持；与伴侣持续沟通、设立健康界限；提前准备现实安排与情绪支持，逐步练习独立决策。\n\n未来趋势：关系有望稳中向好；若必须离开，也将是清醒且有准备的解脱，带来成长与自由。\n\n你正在走出阴影，允许自己慢慢好起来，我在这为你送上支持与信任。",
+    "reading_summary": "整体上，你的感情正从过去的自责与停滞走向平衡与解脱。过去审判...",
+    "timestamp": "2025-08-14T00:05:50.817769",
+    "id": "8047023d-9419-492a-be5f-62347006c489",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我的感情状况如何",
+    "question_category": "love",
+    "spread_type": "three_card",
+    "spread_config": {
+      "name": "三张牌占卜",
+      "description": "经典的过去-现在-未来布局，适合了解事情发展脉络",
+      "card_count": 3,
+      "positions": {
+        "1": {
+          "name": "过去",
+          "description": "影响当前情况的过去因素或根源",
+          "significance": "历史因素，根本原因，已经发生的影响"
+        },
+        "2": {
+          "name": "现在",
+          "description": "当前的状况、挑战或机会",
+          "significance": "目前的状态，需要面对的现实"
+        },
+        "3": {
+          "name": "未来",
+          "description": "可能的结果或发展趋势",
+          "significance": "潜在结果，发展方向，需要注意的趋势"
+        }
+      },
+      "usage": "适合了解情况发展，分析问题全貌，中期规划",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "月亮",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      },
+      {
+        "name": "恶魔",
+        "reversed": true,
+        "position": 2,
+        "orientation": "reversed"
+      },
+      {
+        "name": "死神",
+        "reversed": false,
+        "position": 3,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 18,
+        "suit": "major_arcana",
+        "keywords": [
+          "幻象",
+          "恐惧",
+          "潜意识",
+          "直觉"
+        ],
+        "upright": {
+          "meaning": "幻象迷惑，内在恐惧，潜意识影响，需要信任直觉",
+          "love": "感情迷茫，不确定性",
+          "career": "前路不明，需要直觉",
+          "health": "心理问题，潜意识影响"
+        },
+        "reversed": {
+          "meaning": "真相显现，恐惧消散，觉察幻象，理性回归",
+          "love": "关系真相，理性思考",
+          "career": "情况明朗，理性决策",
+          "health": "症状明确，理性治疗"
+        },
+        "position_info": {
+          "name": "过去",
+          "description": "影响当前情况的过去因素或根源",
+          "significance": "历史因素，根本原因，已经发生的影响"
+        },
+        "card_state": {
+          "name": "月亮",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 15,
+        "suit": "major_arcana",
+        "keywords": [
+          "束缚",
+          "诱惑",
+          "物质",
+          "成瘾"
+        ],
+        "upright": {
+          "meaning": "受到束缚，物质诱惑，成瘾行为，恐惧支配",
+          "love": "不健康的关系，占有欲",
+          "career": "被工作束缚，金钱诱惑",
+          "health": "不良习惯，成瘾问题"
+        },
+        "reversed": {
+          "meaning": "摆脱束缚，克服诱惑，觉醒意识，获得自由",
+          "love": "摆脱不良关系，获得自由",
+          "career": "摆脱束缚，重获自主",
+          "health": "戒除恶习，重获健康"
+        },
+        "position_info": {
+          "name": "现在",
+          "description": "当前的状况、挑战或机会",
+          "significance": "目前的状态，需要面对的现实"
+        },
+        "card_state": {
+          "name": "恶魔",
+          "reversed": true,
+          "position": 2,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 13,
+        "suit": "major_arcana",
+        "keywords": [
+          "结束",
+          "转变",
+          "重生",
+          "释放"
+        ],
+        "upright": {
+          "meaning": "结束旧的开始新的，重大转变，释放过去，重生",
+          "love": "关系结束或重大改变",
+          "career": "工作变动，职业转型",
+          "health": "康复转机，生活方式改变"
+        },
+        "reversed": {
+          "meaning": "拒绝改变，恐惧结束，停滞不前，无法释怀",
+          "love": "害怕分手，拒绝改变",
+          "career": "害怕变动，固守现状",
+          "health": "拒绝治疗，害怕改变"
+        },
+        "position_info": {
+          "name": "未来",
+          "description": "可能的结果或发展趋势",
+          "significance": "潜在结果，发展方向，需要注意的趋势"
+        },
+        "card_state": {
+          "name": "死神",
+          "reversed": false,
+          "position": 3,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "月亮",
+        "position": 1,
+        "position_name": "过去",
+        "reversed": false,
+        "reading": "过去的月亮（正位）显示你以前在感情中经历过迷茫与不确定，潜意识的恐惧和误解仍在影响现在。就你问的感情状况而言，过去的幻想或隐瞒可能成为现在困惑的根源。建议你花时间澄清事实：写下真实感受、辨认恐惧来源并与信任的人或咨询师讨论；避免基于假设行动，练习直觉同时求证信息。给自己时间和安全感，设立界限，必要时慢慢拉开距离，观察变化。"
+      },
+      {
+        "card_name": "恶魔",
+        "position": 2,
+        "position_name": "现在",
+        "reversed": true,
+        "reading": "现在的恶魔（逆位）表明你正处于摆脱束缚的阶段，或已开始看清关系中的操控、依赖或不良模式。对你的感情状况来说，这是解放的信号，提醒你可以选择走出限制、重获自由。建议你确认和写下自己的边界与不适之处，制定逐步行动（降低投入、明确界限、寻求朋友或专业支持、修复自我价值感）。练习自我同情，设小目标并稳健执行，既温柔也坚定地保护自己。"
+      },
+      {
+        "card_name": "死神",
+        "position": 3,
+        "position_name": "未来",
+        "reversed": false,
+        "reading": "未来的死神（正位）预示关系将迎来重大转变，可能是结束或彻底重塑。对你提出的问题，这意味着需要接受某些必须放手的事实，为新生活腾出空间。建议你提前准备：处理未了情绪（写信但不必寄出、做告别仪式或向信任者倾诉）、建立短期自我关怀计划与长期成长目标。面对结束时允许悲伤，同时留意新的机会，结束往往带来重生与新的可能。"
+      }
+    ],
+    "combined_reading": "总体来看，你正从过去的迷惘走向自我解放，未来会经历必要的结束与重生。过去的“月亮”说明旧有的幻想、不安和隐晦问题仍在影响你；现在“恶魔（逆位）”表明你已开始识别并摆脱依赖或操控；未来“死神”提示一场彻底的转变——有结束也有重建的空间。\n\n三牌联系：月亮为根源，制造误解与焦虑；恶魔逆位为动作，你开始设界、减少投入；死神是结果，迫使清理旧业并腾出空间迎接新我。整体信息是：先看清，再断舍，最后重生。\n\n实用建议：写下真实感受与恐惧来源；列出不可接受的边界并逐步执行（少联系、明确界限）；寻求朋友或专业支持；做一次象征性的告别（写信、不寄或小仪式）；制定短期自我关怀清单与长期成长目标。\n\n未来趋势：短期内会有痛苦与失落感，但这是重建自我价值与更健康关系模式的契机。允许悲伤，但同时关注新的可能性。\n\n温暖支持：你并非孤单，允许自己慢慢来，温柔坚定地守护边界，结束之后会有更真实、更自由的你在等候。",
+    "reading_summary": "总体来看，你正从过去的迷惘走向自我解放，未来会经历必要的结束...",
+    "timestamp": "2025-08-14T00:04:52.146675",
+    "id": "f108fa54-51b1-47fb-8682-d5a7cdd2f438",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我应该继续做begin.new网站吗？",
+    "question_category": "general",
+    "spread_type": "career_spread",
+    "spread_config": {
+      "name": "事业牌阵",
+      "description": "专门用于事业和工作问题的六张牌布局",
+      "card_count": 6,
+      "positions": {
+        "1": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "2": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "3": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "4": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "5": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "6": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        }
+      },
+      "usage": "职业规划，工作决策，事业发展咨询",
+      "difficulty": "中级"
+    },
+    "drawn_cards": [
+      {
+        "name": "月亮",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      },
+      {
+        "name": "教皇",
+        "reversed": false,
+        "position": 2,
+        "orientation": "upright"
+      },
+      {
+        "name": "审判",
+        "reversed": true,
+        "position": 3,
+        "orientation": "reversed"
+      },
+      {
+        "name": "力量",
+        "reversed": false,
+        "position": 4,
+        "orientation": "upright"
+      },
+      {
+        "name": "世界",
+        "reversed": true,
+        "position": 5,
+        "orientation": "reversed"
+      },
+      {
+        "name": "权杖三",
+        "reversed": false,
+        "position": 6,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 18,
+        "suit": "major_arcana",
+        "keywords": [
+          "幻象",
+          "恐惧",
+          "潜意识",
+          "直觉"
+        ],
+        "upright": {
+          "meaning": "幻象迷惑，内在恐惧，潜意识影响，需要信任直觉",
+          "love": "感情迷茫，不确定性",
+          "career": "前路不明，需要直觉",
+          "health": "心理问题，潜意识影响"
+        },
+        "reversed": {
+          "meaning": "真相显现，恐惧消散，觉察幻象，理性回归",
+          "love": "关系真相，理性思考",
+          "career": "情况明朗，理性决策",
+          "health": "症状明确，理性治疗"
+        },
+        "position_info": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "card_state": {
+          "name": "月亮",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 5,
+        "suit": "major_arcana",
+        "keywords": [
+          "传统",
+          "教育",
+          "精神指导",
+          "道德"
+        ],
+        "upright": {
+          "meaning": "遵循传统，寻求精神指导，道德准则，传统教育",
+          "love": "传统的关系价值，道德的考量",
+          "career": "教育行业，传统机构，道德准则",
+          "health": "传统疗法，精神健康"
+        },
+        "reversed": {
+          "meaning": "反叛传统，质疑权威，非传统思维，道德混乱",
+          "love": "非传统关系，挑战道德",
+          "career": "质疑制度，创新思维",
+          "health": "另类疗法，反叛旧习"
+        },
+        "position_info": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "card_state": {
+          "name": "教皇",
+          "reversed": false,
+          "position": 2,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 20,
+        "suit": "major_arcana",
+        "keywords": [
+          "重生",
+          "觉醒",
+          "宽恕",
+          "召唤"
+        ],
+        "upright": {
+          "meaning": "精神觉醒，重获新生，宽恕过去，听从召唤",
+          "love": "关系重生，原谅过去",
+          "career": "职业召唤，重新开始",
+          "health": "康复重生，精神觉醒"
+        },
+        "reversed": {
+          "meaning": "缺乏觉悟，拒绝宽恕，错失机会，自我怀疑",
+          "love": "无法原谅，错失复合",
+          "career": "自我怀疑，错失机会",
+          "health": "拒绝康复，缺乏觉悟"
+        },
+        "position_info": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "card_state": {
+          "name": "审判",
+          "reversed": true,
+          "position": 3,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 8,
+        "suit": "major_arcana",
+        "keywords": [
+          "内在力量",
+          "勇气",
+          "耐心",
+          "温柔"
+        ],
+        "upright": {
+          "meaning": "内在力量，温柔的勇气，耐心克服困难，驯服内心野兽",
+          "love": "温柔的力量，包容理解",
+          "career": "内在实力，温和领导",
+          "health": "内在康复力，耐心治疗"
+        },
+        "reversed": {
+          "meaning": "缺乏自信，内在恐惧，暴力倾向，失去控制",
+          "love": "缺乏安全感，情绪失控",
+          "career": "缺乏自信，暴躁易怒",
+          "health": "精神压力，缺乏耐心"
+        },
+        "position_info": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "card_state": {
+          "name": "力量",
+          "reversed": false,
+          "position": 4,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 21,
+        "suit": "major_arcana",
+        "keywords": [
+          "完成",
+          "成功",
+          "实现",
+          "统一"
+        ],
+        "upright": {
+          "meaning": "目标完成，圆满成功，世界在手，完美统一",
+          "love": "完美关系，灵魂伴侣",
+          "career": "事业成功，目标达成",
+          "health": "完全康复，身心统一"
+        },
+        "reversed": {
+          "meaning": "缺乏完成，延迟成功，目标未达，内在空虚",
+          "love": "关系未完善，缺乏满足",
+          "career": "目标未达，需要努力",
+          "health": "康复缓慢，需要坚持"
+        },
+        "position_info": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "card_state": {
+          "name": "世界",
+          "reversed": true,
+          "position": 5,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 3,
+        "suit": "wands",
+        "keywords": [
+          "扩展",
+          "远见",
+          "领导",
+          "贸易"
+        ],
+        "upright": {
+          "meaning": "扩展视野，领导能力，贸易机会，远见卓识",
+          "love": "关系发展，远距离恋爱",
+          "career": "业务扩展，领导机会",
+          "health": "拓展治疗方式，远见规划"
+        },
+        "reversed": {
+          "meaning": "缺乏远见，计划失败，延迟，个人局限",
+          "love": "关系停滞，缺乏发展",
+          "career": "扩展失败，缺乏领导力",
+          "health": "计划受阻，视野狭窄"
+        },
+        "position_info": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        },
+        "card_state": {
+          "name": "权杖三",
+          "reversed": false,
+          "position": 6,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "月亮",
+        "position": 1,
+        "position_name": "当前状况",
+        "reversed": false,
+        "reading": "你可以继续做 begin.new，但要谨慎推进。牌面月亮正位出现在“当前状况”，提示你对项目现状有许多不确定与潜在焦虑，容易被幻象或模糊信息干扰。建议先梳理目标、验证假设，做小范围测试并密集收集用户反馈；信任内心直觉的同时用数据求证；为模糊风险准备备选方案与时间节点。保持耐心，给自己设定三个月评估期，并定期记录进展与感受。"
+      },
+      {
+        "card_name": "教皇",
+        "position": 2,
+        "position_name": "你的优势",
+        "reversed": false,
+        "reading": "简短回答：是的，建议继续做。  \n\n教皇（正位）出现在“你的优势”位，表明你在建立规则、传递权威与信任、把复杂内容体系化方面有天然优势。你能把 begin.new 打造成有教育性、可靠性的产品或社区，吸引寻求规范化、可信信息的用户。建议：确立明确价值观与内容规范、开发系统化教程或认证、寻求行业导师/合作伙伴以增加权威、注重合规与用户信任；同时别太僵化，保留适度创新与用户反馈机制。温暖支持你继续稳扎稳打。"
+      },
+      {
+        "card_name": "审判",
+        "position": 3,
+        "position_name": "面临挑战",
+        "reversed": true,
+        "reading": "审判（逆位）在“面临挑战”位，提示你做 begin.new 时被自我怀疑、固守旧念或回避必要改变所拖累。建议先停一停：收集用户反馈、做小范围测试、放下完美主义并检视初心与目标。若你愿意诚实面对问题并调整方向，可用迭代方式继续推进；若持续停滞且不愿改变，短暂放手或寻找新切入点也是理智的选择。"
+      },
+      {
+        "card_name": "力量",
+        "position": 4,
+        "position_name": "外在机会",
+        "reversed": false,
+        "reading": "牌是正位的力量，置于“外在机会”，说明外部环境对begin.new有利：市场、用户或合作方可能愿意支持。它提示你以温柔的勇气和耐心推进：稳步迭代产品、关注用户体验、建立社区与合作关系，同时用自我管理驯服焦虑与冲动。实操建议：设短期里程碑、优先最小可行功能、寻求反馈与协作、保持节奏。总体倾向继续做，但以持续、柔和的力量而非激进燃烧的方式前行。"
+      },
+      {
+        "card_name": "世界",
+        "position": 5,
+        "position_name": "行动建议",
+        "reversed": true,
+        "reading": "世界（逆）在“行动建议”位意味着目前项目缺乏收尾与成就感。你不必马上放弃，但也不宜盲目硬推。建议先暂停评估：明确核心价值与MVP、删繁就简、列出未完事项并设短期里程碑，优先解决阻碍上线或变现的关键问题；寻求用户反馈或找合作伙伴、外包弥补短板；完成小目标以恢复动力。若数次调整仍无明显进展，再考虑转型或放手。"
+      },
+      {
+        "card_name": "权杖三",
+        "position": 6,
+        "position_name": "未来发展",
+        "reversed": false,
+        "reading": "结论：值得继续，但当作长期项目来经营。权杖三正位在“未来”位显示远见与开拓机会，暗示通过规划和合作能带来扩展与贸易/业务机会。建议：制订清晰路线图并验证用户与市场、寻找战略伙伴或早期客户、预留资源并合理分工或外包技术、设定3–6个月迭代周期与关键指标并跟踪。保持耐心、展现领导力与灵活应变，稳步扩展，回报可期。"
+      }
+    ],
+    "combined_reading": "综合回答：牌面总体支持你继续做 begin.new，但要谨慎、有体系地推进，设立短期评估期（如3个月），以数据检验直觉。 \n\n各牌关联：月亮显示当前信息模糊与不安，教皇是你把项目制度化、建立信任的优势；审判逆位提醒自我怀疑或抗变阻碍前进；力量代表外部支持与温柔推进的机会；世界逆位提示需收尾与删繁就简；权杖三则指向通过规划与合作实现扩展。 \n\n实用建议：明确核心价值与MVP，列出未完成事项并设短期里程碑，优先解决阻碍上线或变现的关键问题；进行小范围用户测试、密集收集反馈；寻求导师或战略伙伴，必要时外包短板；每3–6个月评估并调整。 \n\n未来展望：若按体系化、耐心与合作路径推进，项目具长期成长与扩展潜力。 \n\n鼓励语：你既有规则化、信任感的优势，也有直觉与韧性，给自己空间慢慢迭代，我相信你能把 begin.new 做成值得信赖的长期项目。",
+    "reading_summary": "综合回答：牌面总体支持你继续做 begin.new，但要谨慎...",
+    "timestamp": "2025-08-13T23:41:55.508572",
+    "id": "3f3a7fb1-2f15-45e6-aaf1-e78b17306aa1",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我今天需要注意什么？",
+    "question_category": "general",
+    "spread_type": "single",
+    "spread_config": {
+      "name": "单张牌占卜",
+      "description": "最简单的占卜方式，适合日常指导和是/否问题",
+      "card_count": 1,
+      "positions": {
+        "1": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        }
+      },
+      "usage": "适合快速获得指导，日常决策，简单问题",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "教皇",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 5,
+        "suit": "major_arcana",
+        "keywords": [
+          "传统",
+          "教育",
+          "精神指导",
+          "道德"
+        ],
+        "upright": {
+          "meaning": "遵循传统，寻求精神指导，道德准则，传统教育",
+          "love": "传统的关系价值，道德的考量",
+          "career": "教育行业，传统机构，道德准则",
+          "health": "传统疗法，精神健康"
+        },
+        "reversed": {
+          "meaning": "反叛传统，质疑权威，非传统思维，道德混乱",
+          "love": "非传统关系，挑战道德",
+          "career": "质疑制度，创新思维",
+          "health": "另类疗法，反叛旧习"
+        },
+        "position_info": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        },
+        "card_state": {
+          "name": "教皇",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "教皇",
+        "position": 1,
+        "position_name": "指导",
+        "reversed": false,
+        "reading": "今天提醒你重视传统与制度的力量：遵守规则、按程序办事，会带来顺利与安全。遇到不确定或复杂之事，向有经验的人请教或查证资料，保持礼貌与诚实。若要决策，优先考虑长期稳定与道德准则。简单的仪式性安排（准时、着装得体、记录会议）会让你更有掌控感。如果感到迷茫，今天适合寻求导师、上司或精神指导，安静聆听内心与传统智慧的建议。"
+      }
+    ],
+    "combined_reading": "综合回答：今天你需要注意的是秩序与传统的力量。遵守规则、按程序办事、保持礼貌与诚实，会让今天的事务更加顺利；遇到不确定时主动请教有经验的人或查证资料，比冒险独行更安心。\n\n牌间联系与整体信息：虽然是单张教皇牌，但它同时指向三重主题——制度（规则与流程）、导师（请教与学习）、仪式感（准时、着装、记录）。这些面向相互支持：制度提供框架，导师提供方向，仪式让你掌控细节。\n\n实用建议与行动指导：今天安排时间表并严格遵守；会议前准备好资料并记录要点；遇到重要抉择先咨询上司或前辈；以诚信与礼貌沟通，避免投机或冒险行为。简单的仪式（写下待办、着装得体、准时到场）会提升信任感。\n\n未来趋势展望：今天的稳健与尊重规则，会为你建立信誉与长期稳定的基础。短期可能感到保守或无趣，但长期会带来可靠的支持与机会。\n\n温暖鼓励：信任传统的智慧，也信任自己的判断。按部就班并不意味着平淡，它正在为你铺就更稳固的道路。今天你做的细致与真诚，都会被看见并回报。",
+    "reading_summary": "守规请教，按部就班赢得信任",
+    "timestamp": "2025-08-13T23:36:05.967351",
+    "id": "dedfd53b-fe02-4564-a805-8ca8f2050cbf",
+    "version": "1.0"
+  },
+  {
+    "user_question": "今天运势如何",
+    "question_category": "general",
+    "spread_type": "single",
+    "spread_config": {
+      "name": "单张牌占卜",
+      "description": "最简单的占卜方式，适合日常指导和是/否问题",
+      "card_count": 1,
+      "positions": {
+        "1": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        }
+      },
+      "usage": "适合快速获得指导，日常决策，简单问题",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "愚者",
+        "reversed": true,
+        "position": 1,
+        "orientation": "reversed"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 0,
+        "suit": "major_arcana",
+        "keywords": [
+          "新开始",
+          "纯真",
+          "自发性",
+          "冒险"
+        ],
+        "upright": {
+          "meaning": "新的开始，无限可能，纯真的心境，自由精神",
+          "love": "新的恋情开始，充满可能性的关系",
+          "career": "新的工作机会，创新的想法，勇于尝试",
+          "health": "身心重新开始，摆脱旧的习惯"
+        },
+        "reversed": {
+          "meaning": "鲁莽行为，缺乏计划，轻率决定，错失机会",
+          "love": "不成熟的感情，缺乏责任感",
+          "career": "缺乏经验，不切实际的想法",
+          "health": "缺乏自律，不注意健康"
+        },
+        "position_info": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        },
+        "card_state": {
+          "name": "愚者",
+          "reversed": true,
+          "position": 1,
+          "orientation": "reversed"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "愚者",
+        "position": 1,
+        "position_name": "指导",
+        "reversed": true,
+        "reading": "今天的指导牌是愚者（逆位）。直接回答：今天不宜冲动起步或草率决定。逆位愚者提示易被盲目乐观或恐惧驱动，可能错失机会或犯低级错误。作为今日指引，先暂停，做简单的计划与风险核查；把大决定拆成小步骤，先试探再推进。注意细节、别忽略合同条款与金钱支出；遇到困惑向信任的人求助。温馨提醒：保持好奇但务实，允许缓慢前进，明天会更有把握。"
+      }
+    ],
+    "combined_reading": "综合回答：今天的能量偏向谨慎。愚者（逆位）直接告诉你今天不宜冲动起步或草率决定，盲目乐观或恐惧都可能让判断失误，遇到重要抉择先暂停、核查信息再行动。\n\n牌间联系与整体信息：单张牌显现为核心主题——新起点的冲动被逆位压制，内里既渴望探索又缺乏准备，表现为想法与现实的张力，提醒你把好奇心与务实并行。\n\n实用建议与行动指导：把大决定拆成小步骤，先做试探性行动或信息验证；仔细阅读合同与账单；控制冲动消费；遇到模糊处向信任的人或专业人士咨询。\n\n未来趋势展望：若你选择放慢脚步并修正细节，几日后机会会更清晰，行动也更稳健；若继续草率，可能产生小错失或挫折。\n\n温暖鼓励：允许自己慢下来并不等于退缩。今天的谨慎是为了明天更自信地出发，你有能力把好机会留到最佳时机。",
+    "reading_summary": "先慢一步，核验信息再行动",
+    "timestamp": "2025-08-13T23:33:19.552973",
+    "id": "aa58d21e-3fd1-4b82-8850-96331fc222e5",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我想做30个俯卧撑，我应该去做吗？",
+    "question_category": "health",
+    "spread_type": "celtic_cross",
+    "spread_config": {
+      "name": "凯尔特十字牌阵",
+      "description": "最经典和全面的牌阵，提供详细深入的分析",
+      "card_count": 10,
+      "positions": {
+        "1": {
+          "name": "当前状况",
+          "description": "你目前所处的状况和环境",
+          "significance": "问题的核心，当前现实"
+        },
+        "2": {
+          "name": "挑战/阻碍",
+          "description": "横亘在你面前的挑战或需要克服的阻碍",
+          "significance": "主要困难，需要面对的挑战"
+        },
+        "3": {
+          "name": "遥远的过去",
+          "description": "影响当前情况的深层根源或遥远的过去",
+          "significance": "根本原因，深层背景"
+        },
+        "4": {
+          "name": "近期的过去",
+          "description": "最近发生的影响当前状况的事件",
+          "significance": "近期影响因素"
+        },
+        "5": {
+          "name": "可能的未来",
+          "description": "如果按当前趋势发展可能出现的结果",
+          "significance": "潜在结果，可能性"
+        },
+        "6": {
+          "name": "近期的未来",
+          "description": "即将到来的影响或短期内的发展",
+          "significance": "短期趋势，即将发生的事"
+        },
+        "7": {
+          "name": "你的方法",
+          "description": "你处理这个问题的方式和态度",
+          "significance": "个人方法，处理方式"
+        },
+        "8": {
+          "name": "外在影响",
+          "description": "外部环境和他人对你的影响",
+          "significance": "外部因素，他人观点"
+        },
+        "9": {
+          "name": "希望和恐惧",
+          "description": "你内心深处的希望和恐惧",
+          "significance": "内心期待和担忧"
+        },
+        "10": {
+          "name": "最终结果",
+          "description": "整个情况的最终结果和结局",
+          "significance": "最终结果，整体结论"
+        }
+      },
+      "usage": "复杂问题分析，人生重大决策，全面深入了解",
+      "difficulty": "高级"
+    },
+    "drawn_cards": [
+      {
+        "name": "圣杯二",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      },
+      {
+        "name": "愚者",
+        "reversed": true,
+        "position": 2,
+        "orientation": "reversed"
+      },
+      {
+        "name": "隐士",
+        "reversed": false,
+        "position": 3,
+        "orientation": "upright"
+      },
+      {
+        "name": "星币王牌",
+        "reversed": false,
+        "position": 4,
+        "orientation": "upright"
+      },
+      {
+        "name": "宝剑王牌",
+        "reversed": false,
+        "position": 5,
+        "orientation": "upright"
+      },
+      {
+        "name": "恋人",
+        "reversed": false,
+        "position": 6,
+        "orientation": "upright"
+      },
+      {
+        "name": "正义",
+        "reversed": false,
+        "position": 7,
+        "orientation": "upright"
+      },
+      {
+        "name": "星币二",
+        "reversed": false,
+        "position": 8,
+        "orientation": "upright"
+      },
+      {
+        "name": "倒吊人",
+        "reversed": true,
+        "position": 9,
+        "orientation": "reversed"
+      },
+      {
+        "name": "死神",
+        "reversed": false,
+        "position": 10,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 2,
+        "suit": "cups",
+        "keywords": [
+          "伙伴关系",
+          "结合",
+          "相互吸引",
+          "和谐"
+        ],
+        "upright": {
+          "meaning": "和谐的伙伴关系，相互吸引，情感平衡，真诚连接",
+          "love": "完美的情侣关系，婚姻",
+          "career": "良好的合作关系",
+          "health": "身心和谐，伴侣支持"
+        },
+        "reversed": {
+          "meaning": "关系失衡，分离，缺乏沟通，自我保护",
+          "love": "关系问题，沟通障碍",
+          "career": "合作困难，缺乏协调",
+          "health": "身心失调，缺乏支持"
+        },
+        "position_info": {
+          "name": "当前状况",
+          "description": "你目前所处的状况和环境",
+          "significance": "问题的核心，当前现实"
+        },
+        "card_state": {
+          "name": "圣杯二",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 0,
+        "suit": "major_arcana",
+        "keywords": [
+          "新开始",
+          "纯真",
+          "自发性",
+          "冒险"
+        ],
+        "upright": {
+          "meaning": "新的开始，无限可能，纯真的心境，自由精神",
+          "love": "新的恋情开始，充满可能性的关系",
+          "career": "新的工作机会，创新的想法，勇于尝试",
+          "health": "身心重新开始，摆脱旧的习惯"
+        },
+        "reversed": {
+          "meaning": "鲁莽行为，缺乏计划，轻率决定，错失机会",
+          "love": "不成熟的感情，缺乏责任感",
+          "career": "缺乏经验，不切实际的想法",
+          "health": "缺乏自律，不注意健康"
+        },
+        "position_info": {
+          "name": "挑战/阻碍",
+          "description": "横亘在你面前的挑战或需要克服的阻碍",
+          "significance": "主要困难，需要面对的挑战"
+        },
+        "card_state": {
+          "name": "愚者",
+          "reversed": true,
+          "position": 2,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 9,
+        "suit": "major_arcana",
+        "keywords": [
+          "内省",
+          "寻找",
+          "智慧",
+          "引导"
+        ],
+        "upright": {
+          "meaning": "内在寻找，精神指导，智慧获得，独处思考",
+          "love": "需要独处思考，寻找真爱",
+          "career": "寻找人生方向，深度思考",
+          "health": "内在康复，精神调养"
+        },
+        "reversed": {
+          "meaning": "孤立无援，拒绝帮助，内在迷失，顽固不化",
+          "love": "过度孤立，拒绝感情",
+          "career": "闭门造车，拒绝建议",
+          "health": "缺乏指导，盲目治疗"
+        },
+        "position_info": {
+          "name": "遥远的过去",
+          "description": "影响当前情况的深层根源或遥远的过去",
+          "significance": "根本原因，深层背景"
+        },
+        "card_state": {
+          "name": "隐士",
+          "reversed": false,
+          "position": 3,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 1,
+        "suit": "pentacles",
+        "keywords": [
+          "新机会",
+          "物质开始",
+          "实用性",
+          "安全"
+        ],
+        "upright": {
+          "meaning": "新的物质机会，财务开始，实用的礼物，安全基础",
+          "love": "稳定的关系基础，实际的表达",
+          "career": "新的工作机会，物质收获",
+          "health": "身体健康改善，实际的治疗"
+        },
+        "reversed": {
+          "meaning": "错失机会，财务问题，不实际，缺乏安全感",
+          "love": "关系缺乏稳定，物质困扰",
+          "career": "机会错失，财务不稳",
+          "health": "忽视身体需求，不实际的期望"
+        },
+        "position_info": {
+          "name": "近期的过去",
+          "description": "最近发生的影响当前状况的事件",
+          "significance": "近期影响因素"
+        },
+        "card_state": {
+          "name": "星币王牌",
+          "reversed": false,
+          "position": 4,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 1,
+        "suit": "swords",
+        "keywords": [
+          "新想法",
+          "心智力量",
+          "真相",
+          "突破"
+        ],
+        "upright": {
+          "meaning": "新的想法和洞察，心智突破，真相显现，理性思考",
+          "love": "理性看待感情，沟通重要",
+          "career": "新的想法，智力挑战",
+          "health": "心理突破，理性治疗"
+        },
+        "reversed": {
+          "meaning": "混乱思维，误解，缺乏清晰，心智阻塞",
+          "love": "误解和冲突，沟通不良",
+          "career": "思路不清，决策困难",
+          "health": "心理混乱，缺乏理性"
+        },
+        "position_info": {
+          "name": "可能的未来",
+          "description": "如果按当前趋势发展可能出现的结果",
+          "significance": "潜在结果，可能性"
+        },
+        "card_state": {
+          "name": "宝剑王牌",
+          "reversed": false,
+          "position": 5,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 6,
+        "suit": "major_arcana",
+        "keywords": [
+          "爱情",
+          "选择",
+          "和谐",
+          "结合"
+        ],
+        "upright": {
+          "meaning": "真挚的爱情，重要的选择，和谐关系，灵魂伴侣",
+          "love": "深刻的感情连接，重要的感情决定",
+          "career": "合作伙伴，重要选择，价值观统一",
+          "health": "身心和谐，伴侣支持"
+        },
+        "reversed": {
+          "meaning": "关系失衡，错误选择，价值观冲突，分离",
+          "love": "感情危机，价值观不合",
+          "career": "合作破裂，选择困难",
+          "health": "身心不协调，缺乏支持"
+        },
+        "position_info": {
+          "name": "近期的未来",
+          "description": "即将到来的影响或短期内的发展",
+          "significance": "短期趋势，即将发生的事"
+        },
+        "card_state": {
+          "name": "恋人",
+          "reversed": false,
+          "position": 6,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 11,
+        "suit": "major_arcana",
+        "keywords": [
+          "公正",
+          "平衡",
+          "真相",
+          "因果"
+        ],
+        "upright": {
+          "meaning": "公正裁决，寻求真相，平衡状态，因果报应",
+          "love": "公平的关系，诚实相待",
+          "career": "公正待遇，法律相关",
+          "health": "身心平衡，公正对待身体"
+        },
+        "reversed": {
+          "meaning": "不公正，偏见，逃避责任，不平衡",
+          "love": "关系不平等，不诚实",
+          "career": "不公待遇，偏见歧视",
+          "health": "失衡状态，逃避治疗"
+        },
+        "position_info": {
+          "name": "你的方法",
+          "description": "你处理这个问题的方式和态度",
+          "significance": "个人方法，处理方式"
+        },
+        "card_state": {
+          "name": "正义",
+          "reversed": false,
+          "position": 7,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 2,
+        "suit": "pentacles",
+        "keywords": [
+          "平衡",
+          "多任务",
+          "适应性",
+          "灵活性"
+        ],
+        "upright": {
+          "meaning": "平衡多个优先事项，适应性强，灵活处理，时间管理",
+          "love": "平衡关系和其他责任",
+          "career": "多任务处理，工作平衡",
+          "health": "平衡各方面健康需求"
+        },
+        "reversed": {
+          "meaning": "失去平衡，压力过大，缺乏组织，时间管理差",
+          "love": "关系失衡，缺乏时间",
+          "career": "工作过载，组织混乱",
+          "health": "生活失衡，压力过大"
+        },
+        "position_info": {
+          "name": "外在影响",
+          "description": "外部环境和他人对你的影响",
+          "significance": "外部因素，他人观点"
+        },
+        "card_state": {
+          "name": "星币二",
+          "reversed": false,
+          "position": 8,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 12,
+        "suit": "major_arcana",
+        "keywords": [
+          "牺牲",
+          "等待",
+          "新视角",
+          "暂停"
+        ],
+        "upright": {
+          "meaning": "为了更大目标而牺牲，等待时机，换个角度看问题",
+          "love": "为爱牺牲，等待时机",
+          "career": "暂时的停顿，重新考虑",
+          "health": "休息调养，改变生活方式"
+        },
+        "reversed": {
+          "meaning": "无谓的牺牲，拒绝改变，固执己见，浪费时间",
+          "love": "过度牺牲，固执不变",
+          "career": "拒绝改变，浪费机会",
+          "health": "拒绝治疗，固执己见"
+        },
+        "position_info": {
+          "name": "希望和恐惧",
+          "description": "你内心深处的希望和恐惧",
+          "significance": "内心期待和担忧"
+        },
+        "card_state": {
+          "name": "倒吊人",
+          "reversed": true,
+          "position": 9,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 13,
+        "suit": "major_arcana",
+        "keywords": [
+          "结束",
+          "转变",
+          "重生",
+          "释放"
+        ],
+        "upright": {
+          "meaning": "结束旧的开始新的，重大转变，释放过去，重生",
+          "love": "关系结束或重大改变",
+          "career": "工作变动，职业转型",
+          "health": "康复转机，生活方式改变"
+        },
+        "reversed": {
+          "meaning": "拒绝改变，恐惧结束，停滞不前，无法释怀",
+          "love": "害怕分手，拒绝改变",
+          "career": "害怕变动，固守现状",
+          "health": "拒绝治疗，害怕改变"
+        },
+        "position_info": {
+          "name": "最终结果",
+          "description": "整个情况的最终结果和结局",
+          "significance": "最终结果，整体结论"
+        },
+        "card_state": {
+          "name": "死神",
+          "reversed": false,
+          "position": 10,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "圣杯二",
+        "position": 1,
+        "position_name": "当前状况",
+        "reversed": false,
+        "reading": "简短回答：现在适合尝试30个俯卧撑，但要量力而行。圣杯二正位出现在“当前状况”显示你此刻身心较为和谐，且可能有支持或监督，适合接受这个小挑战。建议先充分热身，评估自己一次能做多少，若一次做不下可分组完成（如3×10或5×6）；全程保持核心收紧、肩胛稳定和有节奏呼吸，若感到锐痛或过度疲劳就停止并休息。有既往伤病请先咨询医生或教练。可找伙伴一起，既安全又更有动力。"
+      },
+      {
+        "card_name": "愚者",
+        "position": 2,
+        "position_name": "挑战/阻碍",
+        "reversed": true,
+        "reading": "愚者逆位在挑战位提醒你：现在冲刺做30个俯卧撑有鲁莽与准备不足的风险，我不建议盲目一次性完成。先评估当前体能与肩、腕状况，做好热身与姿势矫正，从分组（如3–5组每组尽力但不过量）或降低难度（膝盖俯卧撑）逐步增加。若有心脏、肩膀或其他健康顾虑，先咨询专业医生或教练。循序渐进比一次性冒险更安全，也更能建立长期自律。"
+      },
+      {
+        "card_name": "隐士",
+        "position": 3,
+        "position_name": "遥远的过去",
+        "reversed": false,
+        "reading": "隐士（正位）出现在遥远的过去，暗示你这次想做30个俯卧撑源于一段内在修复与自我反省的过程。直接回答：不宜贸然一口气完成30个；更符合隐士智慧的是先聆听身体、循序渐进。建议充分热身，先试一组10–15个、检视姿势与呼吸，再分组完成并留足恢复时间；若有旧伤或不适，先咨询医生或理疗师。温和稳步的推进，比急速冲刺更利于长期健康。"
+      },
+      {
+        "card_name": "星币王牌",
+        "position": 4,
+        "position_name": "近期的过去",
+        "reversed": false,
+        "reading": "牌面提示：星币王牌（正位）在“近期的过去”表示你最近在身体或康复方面已有积极起点。直接回答：如果你目前无疼痛或心肺问题，做30个俯卧撑是可行且有益的。建议分组完成（如3×10或间隔休息）、或用膝式变体逐步达成，先做充分热身并注意标准姿势，感到异常疼痛或头晕就停止并咨询医生或教练。星币王牌鼓励稳健的实践与渐进的进步，安全为先，持续会带来明显改善。"
+      },
+      {
+        "card_name": "宝剑王牌",
+        "position": 5,
+        "position_name": "可能的未来",
+        "reversed": false,
+        "reading": "塔罗对你很肯定：宝剑王牌正位出现在“可能的未来”，暗示如果你按当前趋势去尝试30个俯卧撑，会带来清晰的心理突破与理性成长。直接回答：可以去做，但要理性规划。建议先评估体能与肩腕状态，做好热身与核心稳定，分组完成（例如3×10或5×6），保持正确姿势与呼吸，注意疼痛信号，逐步增加强度并记录感受。如有既往伤病，先咨询医生或教练。这样既达成挑战，也保护身体。"
+      },
+      {
+        "card_name": "恋人",
+        "position": 6,
+        "position_name": "近期的未来",
+        "reversed": false,
+        "reading": "简短回答：可以，但要以安全与和谐为前提。恋人正位出现在近期未来，提示身心协调与做出明智选择，也暗示伴侣或朋友的支持。建议先评估当前体能与技术，热身、保持标准动作（核心收紧、肩膀位置）、分组完成如3×10或两次15次，感到剧烈疼痛就停。若无法完成，改为膝上俯卧撑或倾斜俯卧撑，逐步加量。邀请朋友一起或设目标会更容易坚持。注意恢复与呼吸。如果有慢性伤病，先咨询医生或教练。"
+      },
+      {
+        "card_name": "正义",
+        "position": 7,
+        "position_name": "你的方法",
+        "reversed": false,
+        "reading": "答案是：可以，但要以公平与平衡对待身体。  \n正位“正义”在“你的方法”位提醒你用理性与负责的态度评估：若你已充分热身、动作标准且无旧伤，做30个可作为合理挑战；若吃力或有疼痛，应该减量分组（如3×10）、做膝式或俯身斜板渐进训练，再逐步增加。注意核心稳定与呼吸、保持姿势、适当休息与补水，记录感受与恢复情况。尊重身体信号，付出会有相应回报。"
+      },
+      {
+        "card_name": "星币二",
+        "position": 8,
+        "position_name": "外在影响",
+        "reversed": false,
+        "reading": "星币二（正位）在“外在影响”提醒你正被外界节奏和他人期待牵动。想做30个俯卧撑：可以，但以平衡为先。评估体力、热身、注意姿势与呼吸；若一次难以完成，分组（如3×10或5×6）并充分休息，逐步增加强度。别为取悦他人勉强，若有肩腕或心肺问题，先咨询医生。保持稳定节奏与可持续的进步，你会更安全也更有效，我支持你的尝试。"
+      },
+      {
+        "card_name": "倒吊人",
+        "position": 9,
+        "position_name": "希望和恐惧",
+        "reversed": true,
+        "reading": "牌示倒吊人（逆位）出现在“希望与恐惧”，说明你内心既渴望突破又害怕被迫改变或以固执证明自己。就“做30个俯卧撑吗？”建议不要硬拼一次性完成。先评估身体状况与动作标准，热身后以分组完成（如3×10或6×5），关注呼吸与姿势，若感到疼痛或头晕立即停止。长期坚持循序渐进比一次性爆发更安全有效。若有心脏、背部或关节问题，先咨询医生或教练。"
+      },
+      {
+        "card_name": "死神",
+        "position": 10,
+        "position_name": "最终结果",
+        "reversed": false,
+        "reading": "可以去做，但不要莽撞。死神正位出现在最终位，暗示坚持会带来重大转变——这是结束旧惰性、开启更健康生活方式的转机。实务建议：先热身，检视体能与动作标准；若一次30个困难可分组完成（如3组10），逐周递增，注意核心控制与呼吸，有疼痛应立即停下并就医。把今天当作新开始，温和而坚定地推进。重质不重量，控制节奏与呼吸。若有心脏或关节问题，先咨询医生或教练。"
+      }
+    ],
+    "combined_reading": "综合回答：牌面支持你去尝试做30个俯卧撑，但不是盲目冲刺，要以安全、循序渐进为前提。圣杯二表明你此刻有身心和谐与支持；愚者逆位与倒吊人逆位提醒不要鲁莽或以固执强拼；隐士与星币王牌显示这是从内省到实际行动的稳健起点；正义提示用理性与责任来执行；星币二指出外在节奏或他人期待可能影响你；宝剑王牌与恋人预示理性突破与支持；死神代表习惯的转变与新的开始。\n\n实用建议：充分热身（肩、腕、胸、核心），先测试一次能做多少，若不足可分组完成（3×10、5×6或6×5），或用膝式/倾斜俯卧撑降难度；保持核心收紧、肩胛稳定、匀速呼吸，有锐痛、头晕或既往心肩病史请立刻停止并咨询医生或教练。邀请伙伴监督、记录次数与感受，逐周小幅递增。\n\n未来展望：若遵循上述方法，这次尝试可能成为习惯与体能明显提升的起点，带来持久的积极变化。温暖鼓励：尊重身体、耐心前行，每一步温和而坚定，都是走向更强健自己的转变。",
+    "reading_summary": "安全为先，循序渐进完成30个俯卧撑。",
+    "timestamp": "2025-08-13T23:28:50.577011",
+    "id": "65e46bc8-f398-4aa6-803e-058f5c21a909",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我应该继续做这个塔罗牌的优化吗？",
+    "question_category": "decision",
+    "spread_type": "career_spread",
+    "spread_config": {
+      "name": "事业牌阵",
+      "description": "专门用于事业和工作问题的六张牌布局",
+      "card_count": 6,
+      "positions": {
+        "1": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "2": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "3": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "4": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "5": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "6": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        }
+      },
+      "usage": "职业规划，工作决策，事业发展咨询",
+      "difficulty": "中级"
+    },
+    "drawn_cards": [
+      {
+        "name": "皇帝",
+        "reversed": true,
+        "position": 1,
+        "orientation": "reversed"
+      },
+      {
+        "name": "太阳",
+        "reversed": false,
+        "position": 2,
+        "orientation": "upright"
+      },
+      {
+        "name": "教皇",
+        "reversed": true,
+        "position": 3,
+        "orientation": "reversed"
+      },
+      {
+        "name": "权杖二",
+        "reversed": true,
+        "position": 4,
+        "orientation": "reversed"
+      },
+      {
+        "name": "倒吊人",
+        "reversed": false,
+        "position": 5,
+        "orientation": "upright"
+      },
+      {
+        "name": "节制",
+        "reversed": false,
+        "position": 6,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 4,
+        "suit": "major_arcana",
+        "keywords": [
+          "权威",
+          "结构",
+          "控制",
+          "父性"
+        ],
+        "upright": {
+          "meaning": "权威领导，建立秩序，稳定结构，父权保护",
+          "love": "稳定的关系，承诺和责任",
+          "career": "领导地位，权威认可，结构化成功",
+          "health": "规律的生活，系统性康复"
+        },
+        "reversed": {
+          "meaning": "滥用权力，过度控制，独裁专制，缺乏纪律",
+          "love": "控制欲强，缺乏温情",
+          "career": "权力斗争，缺乏领导力",
+          "health": "压力过大，缺乏自律"
+        },
+        "position_info": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "card_state": {
+          "name": "皇帝",
+          "reversed": true,
+          "position": 1,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 19,
+        "suit": "major_arcana",
+        "keywords": [
+          "成功",
+          "快乐",
+          "活力",
+          "正能量"
+        ],
+        "upright": {
+          "meaning": "成功喜悦，积极乐观，充满活力，正面能量",
+          "love": "快乐的关系，阳光积极",
+          "career": "事业成功，积极发展",
+          "health": "身体健康，精力充沛"
+        },
+        "reversed": {
+          "meaning": "缺乏自信，过度乐观，虚假快乐，能量不足",
+          "love": "表面快乐，缺乏深度",
+          "career": "过度自信，盲目乐观",
+          "health": "虚弱无力，假性健康"
+        },
+        "position_info": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "card_state": {
+          "name": "太阳",
+          "reversed": false,
+          "position": 2,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 5,
+        "suit": "major_arcana",
+        "keywords": [
+          "传统",
+          "教育",
+          "精神指导",
+          "道德"
+        ],
+        "upright": {
+          "meaning": "遵循传统，寻求精神指导，道德准则，传统教育",
+          "love": "传统的关系价值，道德的考量",
+          "career": "教育行业，传统机构，道德准则",
+          "health": "传统疗法，精神健康"
+        },
+        "reversed": {
+          "meaning": "反叛传统，质疑权威，非传统思维，道德混乱",
+          "love": "非传统关系，挑战道德",
+          "career": "质疑制度，创新思维",
+          "health": "另类疗法，反叛旧习"
+        },
+        "position_info": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "card_state": {
+          "name": "教皇",
+          "reversed": true,
+          "position": 3,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 2,
+        "suit": "wands",
+        "keywords": [
+          "计划",
+          "决策",
+          "个人力量",
+          "等待"
+        ],
+        "upright": {
+          "meaning": "制定长期计划，等待时机，个人权力，未来规划",
+          "love": "考虑感情的未来，做出决定",
+          "career": "职业规划，等待机会",
+          "health": "健康计划，长期目标"
+        },
+        "reversed": {
+          "meaning": "缺乏计划，犹豫不决，害怕改变，目光短浅",
+          "love": "无法决定感情方向",
+          "career": "缺乏规划，犹豫不决",
+          "health": "计划不当，缺乏远见"
+        },
+        "position_info": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "card_state": {
+          "name": "权杖二",
+          "reversed": true,
+          "position": 4,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 12,
+        "suit": "major_arcana",
+        "keywords": [
+          "牺牲",
+          "等待",
+          "新视角",
+          "暂停"
+        ],
+        "upright": {
+          "meaning": "为了更大目标而牺牲，等待时机，换个角度看问题",
+          "love": "为爱牺牲，等待时机",
+          "career": "暂时的停顿，重新考虑",
+          "health": "休息调养，改变生活方式"
+        },
+        "reversed": {
+          "meaning": "无谓的牺牲，拒绝改变，固执己见，浪费时间",
+          "love": "过度牺牲，固执不变",
+          "career": "拒绝改变，浪费机会",
+          "health": "拒绝治疗，固执己见"
+        },
+        "position_info": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "card_state": {
+          "name": "倒吊人",
+          "reversed": false,
+          "position": 5,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 14,
+        "suit": "major_arcana",
+        "keywords": [
+          "平衡",
+          "节制",
+          "和谐",
+          "治愈"
+        ],
+        "upright": {
+          "meaning": "平衡各方面，适度节制，和谐统一，治愈过程",
+          "love": "关系和谐，互相平衡",
+          "career": "工作生活平衡，团队合作",
+          "health": "身心和谐，康复进展"
+        },
+        "reversed": {
+          "meaning": "失去平衡，过度极端，缺乏自制，关系不和",
+          "love": "关系失衡，缺乏沟通",
+          "career": "工作过度，缺乏平衡",
+          "health": "生活失调，缺乏节制"
+        },
+        "position_info": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        },
+        "card_state": {
+          "name": "节制",
+          "reversed": false,
+          "position": 6,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "皇帝",
+        "position": 1,
+        "position_name": "当前状况",
+        "reversed": true,
+        "reading": "牌示皇帝逆位出现在“当前状况”，暗示目前的优化工作被过度控制、流程混乱或纪律欠缺所掣肘。直接回答：不建议盲目继续现有方式。建议你先暂停一下，检视是否在自我苛求、过度干预或被权威与流程束缚。具体做法：放下完美主义，划定优先级与可交付小目标、引入外部反馈或授权、建立简明流程与文档、进行小步试验。调整好结构与边界后，再有计划地推进优化，会更有效也更可持续。"
+      },
+      {
+        "card_name": "太阳",
+        "position": 2,
+        "position_name": "你的优势",
+        "reversed": false,
+        "reading": "牌面显示“太阳”正位出现在“你的优势”位置，答案倾向肯定：你在这项塔罗优化上具备热情、创造力与吸引力，容易赢得用户与成效。建议继续推进，聚焦可见性、用户体验与明确定位，分阶段测试并量化反馈，保持乐观但留意细节与可持续性，定期庆祝进步以维持动力。若遇阻力，以数据和用户故事为依据调整方向，不必急于完美，持续迭代更重要。"
+      },
+      {
+        "card_name": "教皇",
+        "position": 3,
+        "position_name": "面临挑战",
+        "reversed": true,
+        "reading": "直接回答：可以继续，但需谨慎。教皇逆位在“面临挑战”位置提示你正在挑战既有规范与权威，这既是创新机会，也可能引发误解或道德模糊。建议：分段试验优化、明确原则与边界、征求同行与用户反馈、记录变更并保留备份。若遇显著阻力，考虑调整方向或短暂停止，回头梳理核心价值。信任直觉，但以数据与伦理为支撑。"
+      },
+      {
+        "card_name": "权杖二",
+        "position": 4,
+        "position_name": "外在机会",
+        "reversed": true,
+        "reading": "权杖二逆位在“外在机会”位显示：外部条件目前对继续大幅优化并不友好——时机、资源或市场尚不明朗，容易引起犹豫与短视。直接回答：不建议盲目推进，也不必马上放弃。建议先暂停大刀阔斧的改动，做三件事：明确目标与受众，做小范围测试并收集反馈，设定短期可量化的里程碑。若测试结果良好再扩大投入；若仍模糊，寻求同行或合作者意见，三个月后再重新评估方向。保持耐心与计划性，逐步验证再扩展。"
+      },
+      {
+        "card_name": "倒吊人",
+        "position": 5,
+        "position_name": "行动建议",
+        "reversed": false,
+        "reading": "倒吊人正位出现在行动建议位，直言此刻更适合暂停与反思，而非盲目继续大刀阔斧地优化。为更长远目标愿意牺牲短期进度：换个角度审视牌义呈现、用户流程和服务定位，收集反馈，做小范围试验，调整后再推广。具体可设一个短暂停顿期（如2–4周），整理数据与灵感，再以更沉稳的节奏推进。保持耐心，这次等待会带来更扎实的成果。"
+      },
+      {
+        "card_name": "节制",
+        "position": 6,
+        "position_name": "未来发展",
+        "reversed": false,
+        "reading": "牌面显示正位的“节制”，在未来位暗示事业会朝平衡、稳健与融合的方向发展。答案是：可以继续，但以节制、循序渐进的方式推进。实务上优先巩固核心功能、小步试验并收集反馈，设限避免过度打磨，关注用户与自身节奏的和谐，必要时寻求协作或外部意见。保持耐心与信任过程，这将带来长期、可持续的成长。我会支持你稳步改进，有需要可具体讨论优先项。"
+      }
+    ],
+    "combined_reading": "综合回答：不宜盲目继续现有优化，先暂停检视与重整，再以小步迭代、有数据支撑地推进。\n\n牌间联系：皇帝逆位提示当前流程与控制失衡，太阳是你的能量与吸引力来源；教皇逆位表明你在挑战规范，外部（权杖二逆位）时机与资源尚不稳；倒吊人提醒你主动放慢、换位思考，节制预示未来可达平衡与稳健成长。\n\n实用建议：设2–4周暂停期，梳理优先级与核心功能，做小范围A/B测试、收集用户数据与故事，记录变更并保留备份，寻求同行反馈，设定可量化短期里程碑，逐步放大有效改动。\n\n未来趋势：若按节制之道循序推进，会带来可持续的增长与更稳固的产品定位。\n\n鼓励语：你有热情与创造力，给自己一些耐心与结构化的空间，你能够把这份热爱变成长远的成果。需要我可帮你拟优先清单与测试方案。",
+    "reading_summary": "先暂停检视重整，数据驱动小步迭代稳健推进",
+    "timestamp": "2025-08-13T23:07:23.487631",
+    "id": "7cd265e3-5144-4700-aafc-b192221328c2",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我想知道是不是应该继续修改塔罗牌占卜的前端",
+    "question_category": "decision",
+    "spread_type": "career_spread",
+    "spread_config": {
+      "name": "事业牌阵",
+      "description": "专门用于事业和工作问题的六张牌布局",
+      "card_count": 6,
+      "positions": {
+        "1": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "2": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "3": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "4": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "5": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "6": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        }
+      },
+      "usage": "职业规划，工作决策，事业发展咨询",
+      "difficulty": "中级"
+    },
+    "drawn_cards": [
+      {
+        "name": "节制",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      },
+      {
+        "name": "星币二",
+        "reversed": false,
+        "position": 2,
+        "orientation": "upright"
+      },
+      {
+        "name": "圣杯二",
+        "reversed": true,
+        "position": 3,
+        "orientation": "reversed"
+      },
+      {
+        "name": "太阳",
+        "reversed": false,
+        "position": 4,
+        "orientation": "upright"
+      },
+      {
+        "name": "皇后",
+        "reversed": false,
+        "position": 5,
+        "orientation": "upright"
+      },
+      {
+        "name": "圣杯王牌",
+        "reversed": false,
+        "position": 6,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 14,
+        "suit": "major_arcana",
+        "keywords": [
+          "平衡",
+          "节制",
+          "和谐",
+          "治愈"
+        ],
+        "upright": {
+          "meaning": "平衡各方面，适度节制，和谐统一，治愈过程",
+          "love": "关系和谐，互相平衡",
+          "career": "工作生活平衡，团队合作",
+          "health": "身心和谐，康复进展"
+        },
+        "reversed": {
+          "meaning": "失去平衡，过度极端，缺乏自制，关系不和",
+          "love": "关系失衡，缺乏沟通",
+          "career": "工作过度，缺乏平衡",
+          "health": "生活失调，缺乏节制"
+        },
+        "position_info": {
+          "name": "当前状况",
+          "description": "你目前的工作或事业状况",
+          "significance": "现状分析"
+        },
+        "card_state": {
+          "name": "节制",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 2,
+        "suit": "pentacles",
+        "keywords": [
+          "平衡",
+          "多任务",
+          "适应性",
+          "灵活性"
+        ],
+        "upright": {
+          "meaning": "平衡多个优先事项，适应性强，灵活处理，时间管理",
+          "love": "平衡关系和其他责任",
+          "career": "多任务处理，工作平衡",
+          "health": "平衡各方面健康需求"
+        },
+        "reversed": {
+          "meaning": "失去平衡，压力过大，缺乏组织，时间管理差",
+          "love": "关系失衡，缺乏时间",
+          "career": "工作过载，组织混乱",
+          "health": "生活失衡，压力过大"
+        },
+        "position_info": {
+          "name": "你的优势",
+          "description": "在事业方面你拥有的优势和能力",
+          "significance": "个人长处，可利用的资源"
+        },
+        "card_state": {
+          "name": "星币二",
+          "reversed": false,
+          "position": 2,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 2,
+        "suit": "cups",
+        "keywords": [
+          "伙伴关系",
+          "结合",
+          "相互吸引",
+          "和谐"
+        ],
+        "upright": {
+          "meaning": "和谐的伙伴关系，相互吸引，情感平衡，真诚连接",
+          "love": "完美的情侣关系，婚姻",
+          "career": "良好的合作关系",
+          "health": "身心和谐，伴侣支持"
+        },
+        "reversed": {
+          "meaning": "关系失衡，分离，缺乏沟通，自我保护",
+          "love": "关系问题，沟通障碍",
+          "career": "合作困难，缺乏协调",
+          "health": "身心失调，缺乏支持"
+        },
+        "position_info": {
+          "name": "面临挑战",
+          "description": "事业发展中需要面对的挑战或阻碍",
+          "significance": "困难和障碍"
+        },
+        "card_state": {
+          "name": "圣杯二",
+          "reversed": true,
+          "position": 3,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 19,
+        "suit": "major_arcana",
+        "keywords": [
+          "成功",
+          "快乐",
+          "活力",
+          "正能量"
+        ],
+        "upright": {
+          "meaning": "成功喜悦，积极乐观，充满活力，正面能量",
+          "love": "快乐的关系，阳光积极",
+          "career": "事业成功，积极发展",
+          "health": "身体健康，精力充沛"
+        },
+        "reversed": {
+          "meaning": "缺乏自信，过度乐观，虚假快乐，能量不足",
+          "love": "表面快乐，缺乏深度",
+          "career": "过度自信，盲目乐观",
+          "health": "虚弱无力，假性健康"
+        },
+        "position_info": {
+          "name": "外在机会",
+          "description": "环境中存在的机会和有利因素",
+          "significance": "外部机遇，可把握的机会"
+        },
+        "card_state": {
+          "name": "太阳",
+          "reversed": false,
+          "position": 4,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 3,
+        "suit": "major_arcana",
+        "keywords": [
+          "丰盛",
+          "创造力",
+          "母性",
+          "自然"
+        ],
+        "upright": {
+          "meaning": "创造力丰富，丰盛富足，母性关怀，与自然和谐",
+          "love": "充满爱的关系，可能怀孕生子",
+          "career": "创意工作，团队和谐，丰收成果",
+          "health": "生育力强，身体健康丰盛"
+        },
+        "reversed": {
+          "meaning": "缺乏创造力，过度保护，依赖他人，不育",
+          "love": "过分依赖，窒息的关爱",
+          "career": "创意阻塞，缺乏成果",
+          "health": "生育问题，缺乏活力"
+        },
+        "position_info": {
+          "name": "行动建议",
+          "description": "为了事业发展应该采取的行动",
+          "significance": "具体建议，行动方向"
+        },
+        "card_state": {
+          "name": "皇后",
+          "reversed": false,
+          "position": 5,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 1,
+        "suit": "cups",
+        "keywords": [
+          "新感情",
+          "爱",
+          "直觉",
+          "精神满足"
+        ],
+        "upright": {
+          "meaning": "新的感情开始，心灵满足，直觉敏锐，爱的礼物",
+          "love": "新恋情，深层情感连接",
+          "career": "工作满足感，团队和谐",
+          "health": "情感康复，心理健康"
+        },
+        "reversed": {
+          "meaning": "情感阻塞，爱的失落，直觉混乱，心灵空虚",
+          "love": "感情受阻，缺乏连接",
+          "career": "工作不满，人际关系差",
+          "health": "情感问题，心理压力"
+        },
+        "position_info": {
+          "name": "未来发展",
+          "description": "事业的发展趋势和可能的结果",
+          "significance": "长期前景，发展方向"
+        },
+        "card_state": {
+          "name": "圣杯王牌",
+          "reversed": false,
+          "position": 6,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "节制",
+        "position": 1,
+        "position_name": "当前状况",
+        "reversed": false,
+        "reading": "节制（正位）出现在“当前状况”告诉你：现在更需要平衡与节制。关于是否继续修改前端，牌建议稳步前进但不要激进重构：小步迭代、以用户反馈和关键体验为优先，避免一次性大改或追求完美；保持前后端与设计的和谐、做好版本控制与回滚计划。如感精力或方向模糊，可先暂停整理需求。设定小目标与截止日，量化成功指标并结合数据与团队意见，让修改既有效又不扰乱现有服务。"
+      },
+      {
+        "card_name": "星币二",
+        "position": 2,
+        "position_name": "你的优势",
+        "reversed": false,
+        "reading": "牌显示星币二正位出现在“你的优势”位置，说明你有在多项任务间平衡、快速适应与良好时间管理的能力。针对是否继续修改前端，牌意倾向于“可以继续，但要有节奏与优先级”。建议：分阶段小步迭代、时间箱管理、列出最关键的改动与验收标准、收集用户反馈并据此调整；必要时拆分任务或委派，避免无止境的细改。你有能力把改动做得稳健而高效。"
+      },
+      {
+        "card_name": "圣杯二",
+        "position": 3,
+        "position_name": "面临挑战",
+        "reversed": true,
+        "reading": "圣杯二逆位出现在“面临挑战”，提示阻碍并非纯技术问题，而是合作与沟通失衡：你与需求方、设计或用户之间可能意见分歧、期待不同或防备心强。是否继续修改前端？建议先暂停大改，把重点放在沟通与对齐：明确目标与优先级、收集真实用户反馈、划清职责后再做小步迭代或交付验收；若对方难以达成共识，考虑更换负责人或限定改动范围。修好关系与流程，后续修改才更有效。"
+      },
+      {
+        "card_name": "太阳",
+        "position": 4,
+        "position_name": "外在机会",
+        "reversed": false,
+        "reading": "结论：值得继续，但要有策略与节奏。太阳正位在“外在机会”意味着外部环境与用户对更明亮、可靠的前端抱有正向期待，你的改动容易被看见并得到积极反馈。实操建议：先列出优先级，集中修复高影响的交互、性能与视觉一致性；采用小步快跑，快速发布可测版本并做用户测试与数据验证；设明确里程碑与可量化目标，避免无休止精雕细琢。保持乐观但务实，你的投入很可能带来明显回报。"
+      },
+      {
+        "card_name": "皇后",
+        "position": 5,
+        "position_name": "行动建议",
+        "reversed": false,
+        "reading": "牌面显示皇后（正位）在“行动建议”，答案偏向继续。皇后鼓励你以创造性和滋养的方式打磨前端：注重界面美感、用户体验与内容丰盛，做出温暖有吸引力的交互。实操建议：优先完善核心流程与响应式布局，加入引导与个性化设置，定期用户测试与迭代，并保持节奏避免过度完美主义。以呵护用户和产品成长的心态推进，会带来丰盛回报。"
+      },
+      {
+        "card_name": "圣杯王牌",
+        "position": 6,
+        "position_name": "未来发展",
+        "reversed": false,
+        "reading": "圣杯王牌（正位）出现在“未来发展”，表示继续修改前端很可能带来情感与创意上的回报：你的直觉改动会被用户感受并带来满足与新机会。建议：信任直觉，先以小迭代和用户测试验证方向，强化界面温度与顺畅交互，避免功能膨胀造成疲劳。结论：值得继续，但以可控节奏与用户反馈为准，保持热忱并照顾好自己的精力。我很看好你的方向与审美。"
+      }
+    ],
+    "combined_reading": "综合回答：牌面倾向于“值得继续，但要有节奏与人际对齐”。稳步迭代、以用户与数据为导向，同时修复沟通裂缝，是最佳路径。\n\n牌间联系：节制为核心，强调平衡与小步前进；星币二支持你在多任务中分配资源；圣杯二逆位提醒合作或期待不合需优先解决；太阳与圣杯王牌预示外界与用户会积极回应；皇后指示以关怀与美感推动执行。\n\n实用建议：拆小任务、设时间箱与可量化里程碑；优先修复高影响交互、性能与一致性；建立回滚与版本控制；召开对齐会议、收集真实用户反馈并写入验收标准；如冲突难解，限定改动或指定协调人。\n\n未来展望：若按节奏推进并修复沟通，用户满意度和产品吸引力会明显提升，还会带来新的创意机会。\n\n温暖支持：你有平衡与执行的能力，信任直觉并温柔地对待团队与自己，稳步前行便能收获丰盛回报。",
+    "reading_summary": "小步迭代、对齐人际并修复沟通",
+    "timestamp": "2025-08-13T21:45:11.504208",
+    "id": "b3f6aa88-6553-45ba-b387-9e7df8513131",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我应该继续做塔罗牌占卜吗？",
+    "question_category": "decision",
+    "spread_type": "celtic_cross",
+    "spread_config": {
+      "name": "凯尔特十字牌阵",
+      "description": "最经典和全面的牌阵，提供详细深入的分析",
+      "card_count": 10,
+      "positions": {
+        "1": {
+          "name": "当前状况",
+          "description": "你目前所处的状况和环境",
+          "significance": "问题的核心，当前现实"
+        },
+        "2": {
+          "name": "挑战/阻碍",
+          "description": "横亘在你面前的挑战或需要克服的阻碍",
+          "significance": "主要困难，需要面对的挑战"
+        },
+        "3": {
+          "name": "遥远的过去",
+          "description": "影响当前情况的深层根源或遥远的过去",
+          "significance": "根本原因，深层背景"
+        },
+        "4": {
+          "name": "近期的过去",
+          "description": "最近发生的影响当前状况的事件",
+          "significance": "近期影响因素"
+        },
+        "5": {
+          "name": "可能的未来",
+          "description": "如果按当前趋势发展可能出现的结果",
+          "significance": "潜在结果，可能性"
+        },
+        "6": {
+          "name": "近期的未来",
+          "description": "即将到来的影响或短期内的发展",
+          "significance": "短期趋势，即将发生的事"
+        },
+        "7": {
+          "name": "你的方法",
+          "description": "你处理这个问题的方式和态度",
+          "significance": "个人方法，处理方式"
+        },
+        "8": {
+          "name": "外在影响",
+          "description": "外部环境和他人对你的影响",
+          "significance": "外部因素，他人观点"
+        },
+        "9": {
+          "name": "希望和恐惧",
+          "description": "你内心深处的希望和恐惧",
+          "significance": "内心期待和担忧"
+        },
+        "10": {
+          "name": "最终结果",
+          "description": "整个情况的最终结果和结局",
+          "significance": "最终结果，整体结论"
+        }
+      },
+      "usage": "复杂问题分析，人生重大决策，全面深入了解",
+      "difficulty": "高级"
+    },
+    "drawn_cards": [
+      {
+        "name": "圣杯二",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      },
+      {
+        "name": "审判",
+        "reversed": false,
+        "position": 2,
+        "orientation": "upright"
+      },
+      {
+        "name": "力量",
+        "reversed": false,
+        "position": 3,
+        "orientation": "upright"
+      },
+      {
+        "name": "节制",
+        "reversed": false,
+        "position": 4,
+        "orientation": "upright"
+      },
+      {
+        "name": "权杖二",
+        "reversed": false,
+        "position": 5,
+        "orientation": "upright"
+      },
+      {
+        "name": "倒吊人",
+        "reversed": false,
+        "position": 6,
+        "orientation": "upright"
+      },
+      {
+        "name": "皇帝",
+        "reversed": false,
+        "position": 7,
+        "orientation": "upright"
+      },
+      {
+        "name": "死神",
+        "reversed": false,
+        "position": 8,
+        "orientation": "upright"
+      },
+      {
+        "name": "恶魔",
+        "reversed": true,
+        "position": 9,
+        "orientation": "reversed"
+      },
+      {
+        "name": "太阳",
+        "reversed": false,
+        "position": 10,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 2,
+        "suit": "cups",
+        "keywords": [
+          "伙伴关系",
+          "结合",
+          "相互吸引",
+          "和谐"
+        ],
+        "upright": {
+          "meaning": "和谐的伙伴关系，相互吸引，情感平衡，真诚连接",
+          "love": "完美的情侣关系，婚姻",
+          "career": "良好的合作关系",
+          "health": "身心和谐，伴侣支持"
+        },
+        "reversed": {
+          "meaning": "关系失衡，分离，缺乏沟通，自我保护",
+          "love": "关系问题，沟通障碍",
+          "career": "合作困难，缺乏协调",
+          "health": "身心失调，缺乏支持"
+        },
+        "position_info": {
+          "name": "当前状况",
+          "description": "你目前所处的状况和环境",
+          "significance": "问题的核心，当前现实"
+        },
+        "card_state": {
+          "name": "圣杯二",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 20,
+        "suit": "major_arcana",
+        "keywords": [
+          "重生",
+          "觉醒",
+          "宽恕",
+          "召唤"
+        ],
+        "upright": {
+          "meaning": "精神觉醒，重获新生，宽恕过去，听从召唤",
+          "love": "关系重生，原谅过去",
+          "career": "职业召唤，重新开始",
+          "health": "康复重生，精神觉醒"
+        },
+        "reversed": {
+          "meaning": "缺乏觉悟，拒绝宽恕，错失机会，自我怀疑",
+          "love": "无法原谅，错失复合",
+          "career": "自我怀疑，错失机会",
+          "health": "拒绝康复，缺乏觉悟"
+        },
+        "position_info": {
+          "name": "挑战/阻碍",
+          "description": "横亘在你面前的挑战或需要克服的阻碍",
+          "significance": "主要困难，需要面对的挑战"
+        },
+        "card_state": {
+          "name": "审判",
+          "reversed": false,
+          "position": 2,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 8,
+        "suit": "major_arcana",
+        "keywords": [
+          "内在力量",
+          "勇气",
+          "耐心",
+          "温柔"
+        ],
+        "upright": {
+          "meaning": "内在力量，温柔的勇气，耐心克服困难，驯服内心野兽",
+          "love": "温柔的力量，包容理解",
+          "career": "内在实力，温和领导",
+          "health": "内在康复力，耐心治疗"
+        },
+        "reversed": {
+          "meaning": "缺乏自信，内在恐惧，暴力倾向，失去控制",
+          "love": "缺乏安全感，情绪失控",
+          "career": "缺乏自信，暴躁易怒",
+          "health": "精神压力，缺乏耐心"
+        },
+        "position_info": {
+          "name": "遥远的过去",
+          "description": "影响当前情况的深层根源或遥远的过去",
+          "significance": "根本原因，深层背景"
+        },
+        "card_state": {
+          "name": "力量",
+          "reversed": false,
+          "position": 3,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 14,
+        "suit": "major_arcana",
+        "keywords": [
+          "平衡",
+          "节制",
+          "和谐",
+          "治愈"
+        ],
+        "upright": {
+          "meaning": "平衡各方面，适度节制，和谐统一，治愈过程",
+          "love": "关系和谐，互相平衡",
+          "career": "工作生活平衡，团队合作",
+          "health": "身心和谐，康复进展"
+        },
+        "reversed": {
+          "meaning": "失去平衡，过度极端，缺乏自制，关系不和",
+          "love": "关系失衡，缺乏沟通",
+          "career": "工作过度，缺乏平衡",
+          "health": "生活失调，缺乏节制"
+        },
+        "position_info": {
+          "name": "近期的过去",
+          "description": "最近发生的影响当前状况的事件",
+          "significance": "近期影响因素"
+        },
+        "card_state": {
+          "name": "节制",
+          "reversed": false,
+          "position": 4,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 2,
+        "suit": "wands",
+        "keywords": [
+          "计划",
+          "决策",
+          "个人力量",
+          "等待"
+        ],
+        "upright": {
+          "meaning": "制定长期计划，等待时机，个人权力，未来规划",
+          "love": "考虑感情的未来，做出决定",
+          "career": "职业规划，等待机会",
+          "health": "健康计划，长期目标"
+        },
+        "reversed": {
+          "meaning": "缺乏计划，犹豫不决，害怕改变，目光短浅",
+          "love": "无法决定感情方向",
+          "career": "缺乏规划，犹豫不决",
+          "health": "计划不当，缺乏远见"
+        },
+        "position_info": {
+          "name": "可能的未来",
+          "description": "如果按当前趋势发展可能出现的结果",
+          "significance": "潜在结果，可能性"
+        },
+        "card_state": {
+          "name": "权杖二",
+          "reversed": false,
+          "position": 5,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 12,
+        "suit": "major_arcana",
+        "keywords": [
+          "牺牲",
+          "等待",
+          "新视角",
+          "暂停"
+        ],
+        "upright": {
+          "meaning": "为了更大目标而牺牲，等待时机，换个角度看问题",
+          "love": "为爱牺牲，等待时机",
+          "career": "暂时的停顿，重新考虑",
+          "health": "休息调养，改变生活方式"
+        },
+        "reversed": {
+          "meaning": "无谓的牺牲，拒绝改变，固执己见，浪费时间",
+          "love": "过度牺牲，固执不变",
+          "career": "拒绝改变，浪费机会",
+          "health": "拒绝治疗，固执己见"
+        },
+        "position_info": {
+          "name": "近期的未来",
+          "description": "即将到来的影响或短期内的发展",
+          "significance": "短期趋势，即将发生的事"
+        },
+        "card_state": {
+          "name": "倒吊人",
+          "reversed": false,
+          "position": 6,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 4,
+        "suit": "major_arcana",
+        "keywords": [
+          "权威",
+          "结构",
+          "控制",
+          "父性"
+        ],
+        "upright": {
+          "meaning": "权威领导，建立秩序，稳定结构，父权保护",
+          "love": "稳定的关系，承诺和责任",
+          "career": "领导地位，权威认可，结构化成功",
+          "health": "规律的生活，系统性康复"
+        },
+        "reversed": {
+          "meaning": "滥用权力，过度控制，独裁专制，缺乏纪律",
+          "love": "控制欲强，缺乏温情",
+          "career": "权力斗争，缺乏领导力",
+          "health": "压力过大，缺乏自律"
+        },
+        "position_info": {
+          "name": "你的方法",
+          "description": "你处理这个问题的方式和态度",
+          "significance": "个人方法，处理方式"
+        },
+        "card_state": {
+          "name": "皇帝",
+          "reversed": false,
+          "position": 7,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 13,
+        "suit": "major_arcana",
+        "keywords": [
+          "结束",
+          "转变",
+          "重生",
+          "释放"
+        ],
+        "upright": {
+          "meaning": "结束旧的开始新的，重大转变，释放过去，重生",
+          "love": "关系结束或重大改变",
+          "career": "工作变动，职业转型",
+          "health": "康复转机，生活方式改变"
+        },
+        "reversed": {
+          "meaning": "拒绝改变，恐惧结束，停滞不前，无法释怀",
+          "love": "害怕分手，拒绝改变",
+          "career": "害怕变动，固守现状",
+          "health": "拒绝治疗，害怕改变"
+        },
+        "position_info": {
+          "name": "外在影响",
+          "description": "外部环境和他人对你的影响",
+          "significance": "外部因素，他人观点"
+        },
+        "card_state": {
+          "name": "死神",
+          "reversed": false,
+          "position": 8,
+          "orientation": "upright"
+        }
+      },
+      {
+        "number": 15,
+        "suit": "major_arcana",
+        "keywords": [
+          "束缚",
+          "诱惑",
+          "物质",
+          "成瘾"
+        ],
+        "upright": {
+          "meaning": "受到束缚，物质诱惑，成瘾行为，恐惧支配",
+          "love": "不健康的关系，占有欲",
+          "career": "被工作束缚，金钱诱惑",
+          "health": "不良习惯，成瘾问题"
+        },
+        "reversed": {
+          "meaning": "摆脱束缚，克服诱惑，觉醒意识，获得自由",
+          "love": "摆脱不良关系，获得自由",
+          "career": "摆脱束缚，重获自主",
+          "health": "戒除恶习，重获健康"
+        },
+        "position_info": {
+          "name": "希望和恐惧",
+          "description": "你内心深处的希望和恐惧",
+          "significance": "内心期待和担忧"
+        },
+        "card_state": {
+          "name": "恶魔",
+          "reversed": true,
+          "position": 9,
+          "orientation": "reversed"
+        }
+      },
+      {
+        "number": 19,
+        "suit": "major_arcana",
+        "keywords": [
+          "成功",
+          "快乐",
+          "活力",
+          "正能量"
+        ],
+        "upright": {
+          "meaning": "成功喜悦，积极乐观，充满活力，正面能量",
+          "love": "快乐的关系，阳光积极",
+          "career": "事业成功，积极发展",
+          "health": "身体健康，精力充沛"
+        },
+        "reversed": {
+          "meaning": "缺乏自信，过度乐观，虚假快乐，能量不足",
+          "love": "表面快乐，缺乏深度",
+          "career": "过度自信，盲目乐观",
+          "health": "虚弱无力，假性健康"
+        },
+        "position_info": {
+          "name": "最终结果",
+          "description": "整个情况的最终结果和结局",
+          "significance": "最终结果，整体结论"
+        },
+        "card_state": {
+          "name": "太阳",
+          "reversed": false,
+          "position": 10,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "圣杯二",
+        "position": 1,
+        "position_name": "当前状况",
+        "reversed": false,
+        "reading": "圣杯二（正位）出现在“当前状况”，说明你目前与客户或占卜事业处于真诚互信、情感平衡的阶段。直接回答：可以继续做，占卜正带来有意义的连接与疗愈。建议保持真诚与专业、明确界限并善于倾听客户需求，同时发展合作与推广、持续精进牌意与咨询技巧。留意不要把个人情感过度投入，保持能量平衡，这样才能让这条路走得更稳更长久。"
+      },
+      {
+        "card_name": "审判",
+        "position": 2,
+        "position_name": "挑战/阻碍",
+        "reversed": false,
+        "reading": "答案是鼓励继续，但以变革与承担为前提。审判正位在“障碍”位提示：你面临的是自我审视与责任召唤——过去的错误、评判或惰性在阻碍你。要以清晰的职业伦理、诚实解读、持续学习和疗愈旧伤来突破。建议：定期反省、接受反馈、设界限并提升技巧；必要时参加进修或寻求督导。这样你不仅可继续占卜，还会以更有力、更稳健的方式服务他人。"
+      },
+      {
+        "card_name": "力量",
+        "position": 3,
+        "position_name": "遥远的过去",
+        "reversed": false,
+        "reading": "牌表示：远古过去的「力量（正位）」说明你早已在内心建立起温柔的勇气与稳定的能量——这是你继续占卜的坚实根基。直接回答：值得继续。它提示以耐心、自律与同理心为本，驯服焦虑与外界噪音。建议：回到最初的使命，设好界限并持续学习、日常自我调护，必要时寻求督导或互助群体。用温柔的力量去服务他人，同时保护自己的能量。"
+      },
+      {
+        "card_name": "节制",
+        "position": 4,
+        "position_name": "近期的过去",
+        "reversed": false,
+        "reading": "节制（正位）出现在“近期的过去”说明你最近在占卜中找到了一种平衡与治愈的节奏，既有自我修养也有对求问者的温柔。针对“是否继续”的问题，它是鼓励性的：继续，但以适度、稳定和有边界的方式。建议：保持学习与休息的平衡，设定明确时间与收费、记录反思并汲取反馈，避免情绪依赖。以疗愈和融合的态度前行，会带来可持续的成长。"
+      },
+      {
+        "card_name": "权杖二",
+        "position": 5,
+        "position_name": "可能的未来",
+        "reversed": false,
+        "reading": "牌示权杖二正位出现在“可能的未来”，表明如果你按当前节奏继续做塔罗，占卜会进入筹划与扩展阶段。你有个人主导力和远见，但需耐心等待合适时机并做战略性的长期规划。建议明确方向（教学、咨询或内容创作）、打磨技巧、建立品牌与时间表，适度推广并设定收费与边界。结论：值得继续，但要以计划性和耐心来经营，稳步推进会带来更可持续的成果。"
+      },
+      {
+        "card_name": "倒吊人",
+        "position": 6,
+        "position_name": "近期的未来",
+        "reversed": false,
+        "reading": "牌面显示：倒吊人正位出现在近期未来，暗示你短期内会进入一个必须暂停、反思并换位思考的阶段。对于“是否继续做塔罗”的问题，答案倾向于“继续，但要调整与等待”。不是放弃，而是牺牲短期的产出与舒适，给自己一段静默时间：检视动机、完善技巧与边界、尝试新的牌阵或服务形式。实务建议：设短期休整、读书练习、收集客户反馈、设定合理价位与时间表。耐心与调整会带来更可持续的事业。"
+      },
+      {
+        "card_name": "皇帝",
+        "position": 7,
+        "position_name": "你的方法",
+        "reversed": false,
+        "reading": "牌面显示皇帝正位出现在“你的方法”位，直接肯定你具备权威性、结构化与稳定的工作方式。回答是：值得继续。它提醒你以更专业、有规章的姿态经营占卜，建立流程、收费与边界，用自信与负责取代顾虑。同时保持同理心与持续学习，必要时设立合约或咨询记录，平衡权威与温柔，会让你的占卜更可靠、更持久。若想更具体，可告诉我你的目标或顾虑，我可以为你进一步分析。"
+      },
+      {
+        "card_name": "死神",
+        "position": 8,
+        "position_name": "外在影响",
+        "reversed": false,
+        "reading": "牌面为死神正位，位于“外在影响”，说明外界（客户、市场或社群氛围）在推动一场结束与重生。直接回答：不是简单地停止，而是通过转变来继续。外界可能在提示你旧的做法已到尽头，需要调整方式、定位或服务内容。建议：认真听取反馈，试验新牌阵或沟通风格，更新推广与收费策略，或给自己短暂休整以重整方向。拥抱变化，你的占卜事业在蜕变后能更稳健、更有力量。"
+      },
+      {
+        "card_name": "恶魔",
+        "position": 9,
+        "position_name": "希望和恐惧",
+        "reversed": true,
+        "reading": "牌面在“希望/恐惧”位的恶魔逆位表明你内心既渴望摆脱束缚与成长，又害怕面对依赖或被欲望牵制。就“是否继续占卜”问题，我建议继续，但以服务与自我成长为出发点：设立清晰界限（收费、时间、咨询范围）、避免把占卜当情绪寄托、定期进修并自我反省。这样既保持职业性，也能真正获得自由与满足。如果担心，可以先设试行期并记录感受与边界调整，必要时寻求同行或导师支持。"
+      },
+      {
+        "card_name": "太阳",
+        "position": 10,
+        "position_name": "最终结果",
+        "reversed": false,
+        "reading": "牌示：太阳（正位）作最终结果，明确肯定你继续做塔罗会带来喜悦、成就与正面回响。作为结局牌，它显示长期的光明与被信任的地位——继续下去很有希望。建议：保持真诚与专业，设好界限与收费、持续练习与学习并注意自我照护；别让成功冲昏头，保持谦逊与责任感。也可以把阳光般的能量带给询问者，同时注意界限、收费与自我成长。"
+      }
+    ],
+    "combined_reading": "综合回答：牌面总体肯定你可以继续做塔罗，但这是一条需要责任、调整与规划的成长之路——继续，同时改进与规整。\n\n牌间关联：圣杯二、力量与节制显示你有真诚的连接、温柔的勇气与平衡的节奏；皇帝表明你的工作方式可建立制度化与权威感；审判与死神提醒必须自我审视与转变；倒吊人提示短期暂停反思，权杖二预示筹划扩展，恶魔逆位是想脱离依赖的内心，太阳为光明的结果。\n\n实务建议：设立明确收费、时间与咨询范围；做督导与进修、定期反思与记录客户反馈；安排短期休整或试验新服务；制定中长期计划（教学、品牌或内容），分阶段推广。\n\n未来展望：若愿意承担改变并有条理地经营，将从暂停与重整走向稳健扩展，最终获得信任、喜悦与成就。\n\n鼓励：你有内在的温柔力量与专业潜力，允许自己慢慢调整、稳步前行，我支持你继续以负责与爱心做下去。需要我帮你拟一份三个月行动计划吗？",
+    "reading_summary": "继续做塔罗，但要责任经营、调整与规划",
+    "timestamp": "2025-08-13T21:43:20.246948",
+    "id": "4a630812-a08b-4800-9f53-b7770f249c5d",
+    "version": "1.0"
+  },
+  {
+    "user_question": "我今天的工作运势如何？",
+    "question_category": "general",
+    "spread_type": "single",
+    "spread_config": {
+      "name": "单张牌占卜",
+      "description": "最简单的占卜方式，适合日常指导和是/否问题",
+      "card_count": 1,
+      "positions": {
+        "1": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        }
+      },
+      "usage": "适合快速获得指导，日常决策，简单问题",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "战车",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 7,
+        "suit": "major_arcana",
+        "keywords": [
+          "意志力",
+          "决心",
+          "控制",
+          "胜利"
+        ],
+        "upright": {
+          "meaning": "强大的意志力，控制局面，决心取得胜利，克服障碍",
+          "love": "为感情努力，克服困难",
+          "career": "意志坚定，克服挑战，获得成功",
+          "health": "意志力强，战胜疾病"
+        },
+        "reversed": {
+          "meaning": "缺乏控制，方向不明，意志薄弱，失败",
+          "love": "缺乏方向，感情摇摆",
+          "career": "缺乏决心，目标不明",
+          "health": "意志薄弱，缺乏毅力"
+        },
+        "position_info": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        },
+        "card_state": {
+          "name": "战车",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "战车",
+        "position": 1,
+        "position_name": "指导",
+        "reversed": false,
+        "reading": "战车正位在指导位置出现，强大的意志力，控制局面，决心取得胜利，克服障碍"
+      }
+    ],
+    "combined_reading": "根据抽取的1张牌，塔罗牌为你的问题提供了多层面的指导。每张牌都代表着不同的能量和信息，建议你仔细思考每张牌的含义，并将它们作为你决策的参考。",
+    "reading_summary": "塔罗牌为你提供了重要的指导。",
+    "timestamp": "2025-08-13T21:12:25.827433",
+    "id": "a61a8d14-163d-4224-83ae-f8ed23bdf051",
+    "version": "1.0"
+  },
+  {
+    "user_question": "什么时候该睡觉",
+    "question_category": "general",
+    "spread_type": "single",
+    "spread_config": {
+      "name": "单张牌占卜",
+      "description": "最简单的占卜方式，适合日常指导和是/否问题",
+      "card_count": 1,
+      "positions": {
+        "1": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        }
+      },
+      "usage": "适合快速获得指导，日常决策，简单问题",
+      "difficulty": "初级"
+    },
+    "drawn_cards": [
+      {
+        "name": "皇后",
+        "reversed": false,
+        "position": 1,
+        "orientation": "upright"
+      }
+    ],
+    "card_meanings": [
+      {
+        "number": 3,
+        "suit": "major_arcana",
+        "keywords": [
+          "丰盛",
+          "创造力",
+          "母性",
+          "自然"
+        ],
+        "upright": {
+          "meaning": "创造力丰富，丰盛富足，母性关怀，与自然和谐",
+          "love": "充满爱的关系，可能怀孕生子",
+          "career": "创意工作，团队和谐，丰收成果",
+          "health": "生育力强，身体健康丰盛"
+        },
+        "reversed": {
+          "meaning": "缺乏创造力，过度保护，依赖他人，不育",
+          "love": "过分依赖，窒息的关爱",
+          "career": "创意阻塞，缺乏成果",
+          "health": "生育问题，缺乏活力"
+        },
+        "position_info": {
+          "name": "指导",
+          "description": "今日指导或对你问题的直接回答",
+          "significance": "整体建议和方向"
+        },
+        "card_state": {
+          "name": "皇后",
+          "reversed": false,
+          "position": 1,
+          "orientation": "upright"
+        }
+      }
+    ],
+    "individual_readings": [
+      {
+        "card_name": "皇后",
+        "position": 1,
+        "position_name": "指导",
+        "reversed": false,
+        "reading": "皇后（正位）在“指导”位置告诉你：现在该把睡眠当作温柔的自我照顾。今日直接建议是按身体节奏入睡，在安全舒适的环境中放松，不要硬撑。实用步骤：傍晚顺应自然光，尽量在日落后至晚上十一点前就寝并保持固定作息；睡前一小时做放松仪式（温水沐浴、无屏阅读、草本茶、柔和灯光、整理床铺），营造丰盛的眠境。感到疲倦就允许自己提前休息，给自己母性般的关怀，良好睡眠能恢复精力并滋养创造力。"
+      }
+    ],
+    "combined_reading": "综合回答：你抽到的是皇后（正位），塔罗在此温柔地告诉你——睡眠就是自我照料。什么时候睡觉？顺应身体的困意，理想的就寝窗为日落到晚上十一点前，尽量固定时间；感到疲倦就允许自己上床，不要硬撑。\n\n牌意联系与整体信息：单张皇后把焦点放在“滋养、节律与安全”上。牌面提醒你通过稳定的日常仪式和明确的界限（停止工作、远离屏幕、营造舒适环境）来支持自然生理节律，让身体在受保护的状态下进入修复。\n\n实用建议与行动指导：傍晚随自然光线调整活动；睡前一小时实行放松仪式——温水沐浴、草本茶、无屏阅读、柔和灯光、整理床铺与几分钟深呼吸；若白天困倦可短睡20–30分钟；设固定就寝提醒并记录感受以调整节律。\n\n未来趋势：若你温柔地遵循皇后的引导，睡眠质量会逐步提升，白天的精力、情绪与创造力会被滋养，长期会形成稳定健康的作息。\n\n温暖鼓励：允许自己被照顾。每一次按时入睡，都是对身心的慈爱投资，你值得这份温柔。",
+    "reading_summary": "综合回答：你抽到的是皇后（正位），塔罗在此温柔地告诉你——睡...",
+    "timestamp": "2025-08-14T00:14:53.759522",
+    "id": "44e5ac67-fde9-4335-a55c-1404b75f4089",
+    "version": "1.0"
+  }
+]
